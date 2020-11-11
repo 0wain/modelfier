@@ -7,8 +7,8 @@ TOOL.Information = {
 
 TOOL.ClientConVar["skin"] = 0
 TOOL.ClientConVar["sequence"] = 0
-TOOL.ClientConVar["bodygroups"] = {}
-TOOL.ClientConVar["poseparams"] = {}
+TOOL.ClientConVar["bodygroups"] = ""
+TOOL.ClientConVar["poseparams"] = ""
 
 if CLIENT then
 	language.Add("tool.modelfier.name", "Modelfier")	
